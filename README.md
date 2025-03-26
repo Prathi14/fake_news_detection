@@ -1,1 +1,2 @@
 # Fake-News-Detection-System
+The developed Model is am Machine Learning Model, which is trained on pre-existing csv file which has both real world real and fake news. Initially the model had the accuracy of 70%, but after several attempts of adding different type of data to the csv file, now the model as the accuracy of 80.9% and the frontend appliaction for this model is developed using simple python as my wish is to train th model to get an accuracy of 90%. This application is deployed using streamlit.
