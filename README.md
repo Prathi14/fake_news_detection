@@ -18,10 +18,15 @@ Pickle for model storage
 File Structure
 Fake-News-Detection
 │──  app.py             # Streamlit app for fake news detection
+
 │──  train_model.py     # Model training and saving script
+
 │──  model.pkl          # Trained Logistic Regression model
+
 │──  vectorizer.pkl     # TF-IDF vectorizer
+
 │──  fake_news.csv      # Dataset used for training
+
 │──  README.md          # Project documentation (this file)
 
 Getting Started
