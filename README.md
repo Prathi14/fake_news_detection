@@ -78,8 +78,8 @@ Contact
 
 For any queries or contributions, feel free to reach out:
 
-Email: pnbisaleri@gmail.com
+Email: prathibhaspattu@gmail.com
 
-GitHub: PNBisaleri
+GitHub: Prathi14
 
-Made with ❤️ by Pavithra N Bisaleri
+Made with ❤️ by Prathibha S
